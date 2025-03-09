@@ -1,0 +1,30 @@
+{
+  "id": "4384735",
+  "name": "spm",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577335",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "3851371",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "7596823",
+      "name": "24gl-portraitMaleInfo3",
+      "font_class": "24gl-portraitMaleInfo3",
+      "unicode": "eb23",
+      "unicode_decimal": 60195
+    }
+  ]
+}
